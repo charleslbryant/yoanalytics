@@ -1,6 +1,7 @@
 # Logs
 logs
 *.log
+
 # Runtime data
 pids
 *.pid
@@ -24,4 +25,3 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
->>>>>>> 8269287c1fbc4656d1c27c115c6e61ad2aac5f16
