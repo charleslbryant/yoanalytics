@@ -1,0 +1,16 @@
+{
+  "name": "yoanalytics-membership",
+  "version": "0.0.1",
+  "description": "DevOps analytics membership module.",
+  "main": "index.js",
+  "repository": "",
+  "author": "Charles Bryant <charleslbryant@outlook.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "mocha": "^2.3.3",
+    "should": "^7.1.1"
+  }
+}
